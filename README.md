@@ -1,7 +1,7 @@
 # arkademy
 batch 14
 
-Software Visual Code dengan extension golang dari microsoft
+Using Visual Code with extension golang from microsoft
 1. open visual code
 2. extension find golang from microsoft
 3. install
